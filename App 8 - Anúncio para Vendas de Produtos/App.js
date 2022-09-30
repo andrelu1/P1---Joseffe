@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import { View, StyleSheet, ScrollView, Text, Image } from 'react-native';
 import { styles } from './styles';
 
+// ᗩⲙᎯﬡᖙᎯ
+
 class App extends Component{
 
   render(){

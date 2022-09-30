@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import { View, Text, StyleSheet, Pressable, TextInput, Image, Keyboard, TouchableWithoutFeedback} from 'react-native';
 import {styles} from './styles';
  
+// ᗩⲙᎯﬡᖙᎯ
+
 class App extends Component{
   constructor(props){
     super(props);

@@ -4,6 +4,8 @@ import {Picker} from '@react-native-picker/picker';
 import Slider from '@react-native-community/slider';
 import { styles } from './styles';
 
+// ᗩⲙᎯﬡᖙᎯ
+
 class App extends Component {
   constructor(props) {
     super(props);

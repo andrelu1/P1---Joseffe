@@ -3,6 +3,8 @@ import { View, Text, StyleSheet, Pressable, TextInput, TouchableWithoutFeedback,
 import {Picker} from '@react-native-picker/picker';
 import {styles} from './styles';
  
+// ᗩⲙᎯﬡᖙᎯ
+
 class App extends Component{
   constructor(props){
     super(props);
